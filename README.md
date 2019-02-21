@@ -19,12 +19,9 @@
 |10 [4-pin Digital Temperature Thermistor Sensor Module for Arduino KY-028 (Oem)](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/sensors/temperature/4-pin-digital-temperature-thermistor-sensor-module-for-arduino/)                                                                                                             |2,41     |    1           |2,41<br>
 |11 [OV7670 Camera Module 640X480 for Arduino](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/sensors/camera/ov7670-camera-module-640x480-for-arduino/)            |9,99     |1               |9,99<br>
 |12 [5V Active Buzzer for Arduino](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/components-and-ic/5v-active-buzzer-for-arduino/)                                                          |0,4        |1               |0,4<br>
-|13 [WeMos D1 Mini ESP8266 NodeMcu 4M - WIFI Development Board](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/microcontrollers/esp8266/wemos-d1-mini-esp8266-nodemcu-4m-wifi-development-board/)
-                                                                                     |6,98       |1               |6,98 <br>
-|14 [MB102 Breadboard Power Supply 3.3V/5V For Arduino Breadboard (MB-102)](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/breadboard/mb102-breadboard-power-supply-3.3v-5v-for-arduino-breadboard-mb-102/)
-                                                                                     |2            |1               |2<br>
-|15 [65pcs Jumper Wire Cable kit for Solderless Breadboard Connections](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/dupont-jumper-wires/65pcs-jumper-wire-cable-kit-for-solderless-breadboard-connections/)
-                                                                                     |3,50         |1               |3,50<br>
+|13 [WeMos D1 Mini ESP8266 NodeMcu 4M - WIFI Development Board](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/microcontrollers/esp8266/wemos-d1-mini-esp8266-nodemcu-4m-wifi-development-board/)|6,98       |1               |6,98 <br>
+|14 [MB102 Breadboard Power Supply 3.3V/5V For Arduino Breadboard (MB-102)](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/breadboard/mb102-breadboard-power-supply-3.3v-5v-for-arduino-breadboard-mb-102/)|2            |1               |2<br>
+|15 [65pcs Jumper Wire Cable kit for Solderless Breadboard Connections](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/dupont-jumper-wires/65pcs-jumper-wire-cable-kit-for-solderless-breadboard-connections/)|3,50         |1               |3,50<br>
 |16 Ξυλεία                                                                           |5            |                |5<br>
 |ΣΥΝΟΛΟ	                                                                             |             |                | 101,11€   
 
