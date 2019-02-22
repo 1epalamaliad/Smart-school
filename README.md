@@ -22,8 +22,9 @@
 |13 [WeMos D1 Mini ESP8266 NodeMcu 4M - WIFI Development Board](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/microcontrollers/esp8266/wemos-d1-mini-esp8266-nodemcu-4m-wifi-development-board/)|6,98       |1               |6,98 <br>
 |14 [MB102 Breadboard Power Supply 3.3V/5V For Arduino Breadboard (MB-102)](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/breadboard/mb102-breadboard-power-supply-3.3v-5v-for-arduino-breadboard-mb-102/)|2            |1               |2<br>
 |15 [65pcs Jumper Wire Cable kit for Solderless Breadboard Connections](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/dupont-jumper-wires/65pcs-jumper-wire-cable-kit-for-solderless-breadboard-connections/)|3,5         |1               |3,5<br>
-|16 Ξυλεία                                                                           |5            |                |5<br>
-|ΣΥΝΟΛΟ	                                                                             |             |                | 110,91€   
+|16 [Micro SD Storage Board Module - SPI For Arduino](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/modules/storage/micro-sd-storage-board-module-spi-for-arduino/)     |2,5          |1               |2,5<br>
+|17 Ξυλεία                                                                           |5            |                |5<br>
+|ΣΥΝΟΛΟ	                                                                             |             |                | 113,41€   
 
 Τα υλικά είναι ενδεικτικά. Μπορεί να αλλάξει κάτι, να προστεθεί ή να αφαιρεθεί.
 Για το Dwenguino η τιμή που αναφέρεται είναι η προσφορά που έχει γίνει για τα σχολεία.
