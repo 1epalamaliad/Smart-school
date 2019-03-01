@@ -24,7 +24,7 @@
 |15 [65pcs Jumper Wire Cable kit for Solderless Breadboard Connections](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/dupont-jumper-wires/65pcs-jumper-wire-cable-kit-for-solderless-breadboard-connections/)|3,5         |1               |3,5<br>
 |16 [Micro SD Storage Board Module - SPI For Arduino](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/modules/storage/micro-sd-storage-board-module-spi-for-arduino/)     |2,5          |2               |5<br>
 |17 [Small Speaker 8 Ohm 0.5W 40mm for Toys](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/modules/audio/small-speaker-8-ohm-0.5w-30mm-for-toys/)              |1,19         |2               |2,38<br>
-|18 Ξυλεία                                                                           |5            |                |5<br>
-|ΣΥΝΟΛΟ	                                                                             |             |                | 128,29€   
+|18 Ξυλεία                                                                           |20            |               |20<br>
+|ΣΥΝΟΛΟ	                                                                             |             |                | 143,29€   
 
 Τα υλικά είναι ενδεικτικά. Μπορεί να αλλάξει κάτι, να προστεθεί ή να αφαιρεθεί.
